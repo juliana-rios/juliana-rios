@@ -18,7 +18,7 @@
 ##
 
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/juliana-rios-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/juliana-rios-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
   
 ##
